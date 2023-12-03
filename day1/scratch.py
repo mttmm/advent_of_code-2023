@@ -43,7 +43,7 @@ for line in text:
 
 print(ans1) #54390
 
-print(ans2) # 54277
+print(ans2) # 54277 #
 
 
 
